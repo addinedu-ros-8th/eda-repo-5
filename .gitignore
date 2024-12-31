@@ -172,6 +172,7 @@ cython_debug/
 
 # data csv file
 data/*.csv
+data/*.xls
 
 # driver chromedriver
 driver/chromedriver
