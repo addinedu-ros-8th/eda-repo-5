@@ -29,5 +29,5 @@
 [서울열린데이터광장](https://data.seoul.go.kr/)   
 [카카오맵](https://map.kakao.com/)   
 [구글맵](https://www.google.co.kr/maps)   
-[네이버지도](https://map.naver.com/)
-[국가동물보호정보시스템](https://www.animal.go.kr)
+[네이버지도](https://map.naver.com/)   
+[국가동물보호정보시스템](https://www.animal.go.kr/)
