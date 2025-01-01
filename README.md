@@ -7,8 +7,11 @@
 <img src="https://github.com/user-attachments/assets/8b5ad36e-54cb-4637-8bb4-183d5b45bc08" width="500" height="350" />
 <p align="center"><img src="https://github.com/user-attachments/assets/7d4eb033-0f6a-4c30-8233-f005f5bbbaae" width="500" height="550" /></p>
 
-
 저희는 이번 프로젝트를 통해 서울시에서 반려동물을 키우는 각 가정들의 양육 형태와 주변 환경을 조사하여 서울시가 반려동물을 키우기 적합한 도시인지 분석해볼 것입니다.
+
+## 서울시 반려동물 현황
+
+
 
 ## 💥 가설
 
