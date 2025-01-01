@@ -2,7 +2,12 @@
 ![웰시 멍멍이](https://github.com/user-attachments/assets/f4a11148-2211-40ca-b964-f792453e16c6)
 
 ## ☀️ 개요 
-현재 대한민국은 서울시로 집중되는 과밀화 현상을 보이고 있고, 동시에 반려동물을 키우는 가구 또한 늘어나고 있습니다. 여기서 저희가 주목한 점은 반려동물에 대한 인식이 바뀌어 가족구성원으로 받아들이고 있는 추세이고, 이러한 흐름속에서 많은 인구가 거주하는 서울시는 과연 반려동물을 키우기 적합한 도시인지에 대한 의문이 생겼습니다.   
+현재 대한민국은 수도권으로 인구가 집중되는 쏠림 현상을 보이고 있고, 2014년부터 시행한 반려동물 등록제와 각 가정에서 반려동물에 대한 인식이 바뀌어 가족구성원으로 받아들이고 있어 반려동물을 양육하는 가정이 증가하고 있습니다. 이러한 흐름속에서 많은 인구가 거주하는 서울시는 과연 반려동물을 키우기 적합한 도시인지에 대한 의문이 생겼습니다.   
+<img src="https://github.com/user-attachments/assets/bec0f21a-cd8d-43d3-bdbc-ebc6535b86a5" width="500" height="350" />
+<img src="https://github.com/user-attachments/assets/8b5ad36e-54cb-4637-8bb4-183d5b45bc08" width="500" height="350" />
+<p align="center"><img src="https://github.com/user-attachments/assets/7d4eb033-0f6a-4c30-8233-f005f5bbbaae" width="500" height="550" /></p>
+
+
 저희는 이번 프로젝트를 통해 서울시에서 반려동물을 키우는 각 가정들의 양육 형태와 주변 환경을 조사하여 서울시가 반려동물을 키우기 적합한 도시인지 분석해볼 것입니다.
 
 ## 💥 가설
