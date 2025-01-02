@@ -10,7 +10,7 @@ class Database:
             password=password,
             database=database
         )
-        self.cursor = self.connection.cursor()
+        self.cursor = self.connection.cursor(buffered=True)
 
     def createTable(self, table_name, columns):
         columns_definition = ", ".join([f"{name} {datatype}" for name, datatype in columns.items()])
@@ -32,12 +32,12 @@ class Database:
         self.cursor.execute(query, tuple(updates.values()))
         self.connection.commit()
 
-    def selectData(self, table_name, columns="*", condition=None):
-        query = f"SELECT {columns} FROM {table_name}"
-        if condition:
-            query += f" WHERE {condition}"
-        self.cursor.execute(query)
-        results = self.cursor.fetchall()
+    def selectData(self, query, row=None, flag="all"):
+        self.cursor.execute(query, row)
+        if flag == "one":
+            results = self.cursor.fetchone()
+        else:
+            results = self.cursor.fetchall()
         return results
 
     def closeConnection(self):
